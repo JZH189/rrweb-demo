@@ -74,5 +74,4 @@ rrweb 主要由 3 部分组成：
 最后通过一个动图来展示下效果：
 
 <img src="src/assets/demo3.gif">
-
-最后附上项目 [github]()
+最后附上本次演示项目地址 [github](https://github.com/JZH189/rrweb-demo.git)
